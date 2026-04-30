@@ -2767,3 +2767,4 @@ Aspect ratio: 9:16
 
 [⬆️ 返回顶部](#readme-top)
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
